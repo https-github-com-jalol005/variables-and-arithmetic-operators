@@ -9,6 +9,6 @@
 void main() {
     int a = 72;
     int b = 9;
-
-    print(a/b);
+    int answer=a/b;
+    print(answer);
 }
