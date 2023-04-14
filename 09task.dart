@@ -15,6 +15,6 @@ void main() {
     int b = 3;
     int c = 2;
     int d = 4;
-
-    print(a+b-c*d);
+    int answer=a+b-c*d;
+    print(answer);
 }
